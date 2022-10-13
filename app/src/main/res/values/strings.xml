@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LoveTest</string>
+    <string name="main_title">Let\'s find out\nyour love type!</string>
+    <string name="question">There were favorite flowers\nin the flower vase.\nAs time goes, the flowers\nhave all withered.\nWhat are you going to do with that?</string>
+    <string name="option1">1. Throw it away.</string>
+    <string name="option2">2. Water the flowers.</string>
+    <string name="option3">3. Cut it off with sissors.</string>
+    <string name="option4">4. Make them as dried flowers.</string>
+
+    <string name="result1">You are a QUITTER!</string>
+    <string name="result_detail1">May be you give up on love too easily..</string>
+
+    <string name="result2">You should focus on yourself</string>
+    <string name="result_detail2">You become really to your ex.</string>
+
+    <string name="result3">You should take it easy</string>
+    <string name="result_detail3">You can do crazy things no matter what it takes.</string>
+
+    <string name="result4">You are pretty mature.</string>
+    <string name="result_detail4">You can easily accept the break-up.</string>
+</resources>
